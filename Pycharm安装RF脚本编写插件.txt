@@ -1,0 +1,26 @@
+
+************************************************************************************************************
+************************************************************************************************************
+
+在Pycharm中安装IntelliBot插件，用于编写RF脚本
+方法来源于网络：https://blog.csdn.net/ccggaag/article/details/77529724
+
+############################################################################################################
+
+1、安装pycharm 
+2、File->Settings->plugins-> 搜索插件名：IntelliBot  安装
+3、配置RF的文件类型识别
+   File->Settings->Editor->File Types-> 右边选择：Robot Feature->右边“+”新增：*.txt (识别.txt文件为RF脚本)
+4、配置suite和case的运行配置
+   File->Settings->Tools->External Tools-> 右边“+”新增
+   1) Name: Robot Run TestSuite
+      Program: D:\Program Files\Anaconda3\Scripts\robot.bat（Robot 安装的路径）
+      Arguments: -d results $FileName$
+      Working directiory: $FileDir$
+   2) Name: Robot Run SingleTestCase
+      Program: D:\Program Files\Anaconda3\Scripts\robot.bat（Robot 安装的路径）
+      Arguments: -d results -t "$SelectedText$" ./
+      Working directiory: $FileDir$
+
+############################################################################################################
+这样便能在pycharm中编写及运行RF脚本了
