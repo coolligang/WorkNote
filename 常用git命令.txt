@@ -9,4 +9,4 @@
    git remote add origin https://github.com/coolligang/WorkNote.git # 关联到远程仓库   
    git add README.md
    git commit -m "first commit"
-   git push -u origin master # 首次提交
+   git push -u origin master # 首次提交master分支的所有内容
