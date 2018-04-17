@@ -10,3 +10,4 @@
    git add README.md
    git commit -m "first commit"
    git push -u origin master # 首次提交master分支的所有内容
+   # 此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改
