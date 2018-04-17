@@ -5,9 +5,8 @@
 *************************************************************************************************
 
 1、添加远程仓库,然后提交
-   git remote add origin https://github.com/coolligang/WorkNote.git
-
    git init
+   git remote add origin https://github.com/coolligang/WorkNote.git # 关联到远程仓库   
    git add README.md
    git commit -m "first commit"
-   git push -u origin master
+   git push -u origin master # 首次提交
