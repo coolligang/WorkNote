@@ -1,0 +1,283 @@
+ Loadrunner之页面压测
+链接：http://pan.baidu.com/s/1caLplO 密码：2g5x
+
+Loadrunner之接口压测 12-20
+链接：http://pan.baidu.com/s/1bAwWYq 密码：86lf
+
+
+Loadrunner之场景压测
+链接：http://pan.baidu.com/s/1c2vafuC 密码：5j3i
+
+
+
+5-25 【Jmeter中JDBC类型组件的使用】
+链接：http://pan.baidu.com/s/1i5FWX3R 密码：wx3w
+
+
+Jmeter关联利器--正则表达式提取器
+链接：http://pan.baidu.com/s/1hs3htAk 密码：ghqp
+
+
+5-10 老司机带你1小时学会使用Jmeter
+链接：http://pan.baidu.com/s/1hsoTQkO 密码：pzkh
+
+
+ 图文识别与自动化框架的高级编程实战
+链接：http://pan.baidu.com/s/1gf4yOP9 密码：2ukz
+
+
+3-8 monkey 安卓自动化压力测试——让你的应用坚不可摧
+链接: https://pan.baidu.com/s/1i4NKcQx 密码: 3vn6
+
+
+3-9 Loadrunner性能测试——高级专项，带你突破软件测试瓶颈
+链接：http://pan.baidu.com/s/1kVv5Yab 密码：wk30
+
+
+3-23 SoapUI接口测试通过Groovy获取Cookie实现带权限验证接口自动化
+链接：http://pan.baidu.com/s/1hsp7tlE 密码：zsan
+
+
+3-27 高级移动测试工程师必备——monkeyrunner实现app的全自动化测试
+链接: https://pan.baidu.com/s/1c9w8hw 密码: 4gpn
+
+
+5-22 接口测试--从原理到实践
+链接：http://pan.baidu.com/s/1jHHa7kU 密码：ww2n
+
+5-23 深度解析LR场景设计之场景计划
+链接：http://pan.baidu.com/s/1pLhoG1l 密码：6g80
+
+5-24  perlly-【Web UI自动化--selenium原理指导实践】
+链接：http://pan.baidu.com/s/1eRNUr4Y 密码：vlh9
+
+5-25 【Jmeter中JDBC类型组件的使用】
+链接：http://pan.baidu.com/s/1i5FWX3R 密码：wx3w
+
+
+4-2 Bug管理工具禅道-深度解析教大家如何在测试中运用禅道提高测试 效率与质量
+链接：http://pan.baidu.com/s/1c2oumjA 密码：uldl
+
+
+5-31 【深入浅出的解析Session和Cookie】
+链接：http://pan.baidu.com/s/1slx0hC5 密码：kk94
+
+6-1 URL+HTTP协议详解  
+链接：http://pan.baidu.com/s/1c1Hnkh6 密码：xer6
+
+6-6 Jerry【软件测试总纲--软件质量模型】
+链接：http://pan.baidu.com/s/1dEQEV3F 密码：lby5
+
+
+6-7 Jerry-【安全测试之--SQL注入漏洞详解】
+链接：http://pan.baidu.com/s/1i4HJu6L 密码：5yfc
+
+
+6-8linux shell链接：http://pan.baidu.com/s/1jI62qLS 密码：0out
+
+
+
+6-12 高级功能测试之接口测试原理和实践
+链接：http://pan.baidu.com/s/1boUgZc7 密码：hurs
+
+
+6-13 高级测试技巧--使用jmeter完成接口&性能测试链接：http://pan.baidu.com/s/1dF3UN8d 密码：mzuy
+
+
+6-14 Jmeter二次开发之java请求扩展
+链接：http://pan.baidu.com/s/1nvwnbdR 密码：agxf
+
+
+
+6-15 性能测试--参数化详解
+链接：http://pan.baidu.com/s/1mhNdp3M 密码：vz1j
+
+
+
+Jerry【性能测试--关联详解】
+链接：http://pan.baidu.com/s/1mhXSSU8 密码：6zp9
+
+
+
+6-21 http全自动化接口测试实战
+链接：http://pan.baidu.com/s/1gfmqpoR 密码：fspt
+
+
+6-22 Jmeter--正则表达式提取器详解
+链接：http://pan.baidu.com/s/1dFEeH9J 密码：o7e1
+
+
+6-27 【web功能测试基础高效实战】
+链接：http://pan.baidu.com/s/1hsMMvD6 密码：ho2k
+
+
+6-28 【selenium实现Web UI 自动化测试】
+链接：http://pan.baidu.com/s/1miIA0Rm 密码：54tq
+
+
+6-29 【高级功能测试之接口自动化测试】
+链接：http://pan.baidu.com/s/1gff5etd 密码：702g
+
+
+7-4  【APP测试—移动端专项测试原理】
+链接：http://pan.baidu.com/s/1dEQateL 密码：x2zl
+
+
+7-5  【fiddler移动端代理抓包】
+链接：http://pan.baidu.com/s/1boUiiQj 密码：ripy
+
+
+7-6  【APP压力测试monkey实践】
+链接：http://pan.baidu.com/s/1pL6Z14B 密码：wxne
+
+
+7-12 【APP自动化测试-appium环境集成】
+链接：http://pan.baidu.com/s/1o89dFqq 密码：tina
+
+
+7-13 【软件测试行业分析】
+链接：http://pan.baidu.com/s/1ccskYM 密码：9tql
+
+
+
+7-14 【Linux运维基础】
+链接：http://pan.baidu.com/s/1nvyqyUX 密码：y8nd
+
+
+7-17【测试公开课_质量管理_Carvin 2017-07-17】
+链接：http://pan.baidu.com/s/1b5OuT4 密码：fdne
+
+
+7-18【数据库基础和SQL注入】
+链接：http://pan.baidu.com/s/1kVkNAKJ 密码：nnj3
+
+
+7-19【Jmeter快速入门】
+链接：http://pan.baidu.com/s/1dFw5iLF 密码：odw1
+
+
+7-20【测试公开课_测试用例_Carvin 2017-07-20】
+链接：http://pan.baidu.com/s/1slDHG41 密码：k2kv
+
+
+7-24【基于Selenium的自动化测试】
+链接：http://pan.baidu.com/s/1nuOzrFN 密码：76ye
+
+
+8-1 【测试公开课_软件质量模型_Carvin 2017-08-01】
+链接：http://pan.baidu.com/s/1skOXAWl 密码：uej2
+
+
+8-2 【公开课--URL+HTTP协议详解】
+链接：http://pan.baidu.com/s/1i5vcdyX 密码：8bdu
+
+
+8-3 【自动化功能测试】
+链接：http://pan.baidu.com/s/1i5tGiyD 密码：esvp
+
+
+8-7 【测试公开课_小白的进阶之路_Carvin 2017-08-07】
+链接：http://pan.baidu.com/s/1o8SchVO 密码：z8bz
+
+
+8-8 【公开课--session和cookie详解】
+链接：http://pan.baidu.com/s/1gfahMxl 密码：ouv5
+
+
+8-9 【测试公开课_系统测试_Carvin 2017-08-09】
+链接：http://pan.baidu.com/s/1qYFgTC4 密码：mrg2
+
+
+8-10【测试公开课_测试需求分析_Carvin 2017-08-10】
+链接：http://pan.baidu.com/s/1mhNg2zI 密码：qofb
+
+
+8-11【公开课--LR参数取值方式】
+链接：http://pan.baidu.com/s/1mhZXFAS 密码：mf3w
+
+
+8-12 【公开课--性能测试难点—关联详解】
+链接：http://pan.baidu.com/s/1c1OIOKw 密码：oaoo
+
+
+8-14 【公开课--LR场景计划详解】
+链接：http://pan.baidu.com/s/1qYblC76 密码：d68t
+
+
+8-15 【测试公开课_自动化测试基础_Carvin 2017-08-15】
+链接：http://pan.baidu.com/s/1pLHlpCf 密码：id8k
+
+
+8-16 【测试公开课_测试计划设计技巧_Carvin 2017-08-16】
+链接：http://pan.baidu.com/s/1pKNGIL1 密码：gx1v
+
+
+8-17 【测试公开课_移动端和PC端测试的异同性_Carvin 2017-08-17】
+链接：http://pan.baidu.com/s/1gfGfPaN 密码：yz6h
+
+
+8-18 【公开课--Jmeter：正则表达式提取器详解】
+链接：http://pan.baidu.com/s/1hsCahi0 密码：wcti
+
+
+8-21 【公开课：接口测试----从原理到实践】
+链接：http://pan.baidu.com/s/1jIf2j6A 密码：phd9
+
+
+8-22 【测试公开课_软件测试面试技巧_Carvin 2017-08-22】
+链接：http://pan.baidu.com/s/1gfH2bMb 密码：5v00
+
+
+8-23 【测试公开课_测试用例_Carvin 2017-08-23】
+链接：http://pan.baidu.com/s/1slO9oIT 密码：mrsq
+
+
+8-24 【测试公开课_质量管理_Carvin 2017-08-24】
+链接：http://pan.baidu.com/s/1jIDYl74 密码：m07p
+
+
+8-25 【公开课：安全测试之SQL注入】
+链接：http://pan.baidu.com/s/1dEPx90d 密码：yt9f
+
+
+8-26 【公开课：Jmeter快速入门】
+链接：http://pan.baidu.com/s/1o8UfphC 密码：lcnk
+
+
+8-28 【公开课：Linux shell 入门】
+链接：http://pan.baidu.com/s/1nvaCCdF 密码：pgos
+
+
+近期视频集锦链接: https://pan.baidu.com/s/1qY8t9CC 密码: kjjq
+
+9-11【Jerry公开课：参数取值方式详解】
+链接：http://pan.baidu.com/s/1eRFSZj8 
+
+ 密码：x2bi
+
+
+【动脑测试VIP试听课精彩集锦】链接：http://pan.baidu.com/s/1dFncD93 密码：jjve
+
+
+
+测试零基础视频
+需求分析 链接：http://pan.baidu.com/s/1mhQv4MG 密码：g420
+测试用例链接：http://pan.baidu.com/s/1gfkiDc3 密码：ss0o
+
+
+app自动化测试 链接：http://pan.baidu.com/s/1dF7S0lr 密码：uuqb
+
+
+2-6wireshark抓包
+链接：http://pan.baidu.com/s/1jIeBoVG 密码：js29
+
+
+loadrunner安装包
+loadrunner
+链接:http://pan.baidu.com/s/1nvG0yKh 密码:mgbs
+
+9-13 【测试公开课_软件测试面试技巧_Carvin 2017-09-13】
+链接：http://pan.baidu.com/s/1o8dtqau 
+
+ 密码：t845
+
