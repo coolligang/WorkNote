@@ -1,0 +1,35 @@
+
+*************************************************************************************************************
+
+关于安装wxpython for Python3.5
+
+*************************************************************************************************************
+
+按照《Python基础教程》第12章“图形用户界面”的指导，安装wxpython时却只能找到wxpython for Python2.7的版本。尝试着安装，运行 import wx 时直接报错。在网上搜索资料后得知：wxpython在python 3.X下变成了wxpython ProjectPhoenix项目。{官方主页在[wxpython ProjectPhoenix]  (https://wiki.wxpython.org/ProjectPhoenix)}
+
+
+
+下载与安装方法：
+
+(1)下载地址在:
+
+https://wxpython.org/Phoenix/snapshot-builds/
+
+打开网页后可以看到许多文件，文件有着冗长的名字，这些名字代表着文件对应的平台与版本。
+
+比如 wxPython-4.0.0a4.dev3182+a7b9b02-cp35-cp35m-win32.whl
+
+是win32的Python3.5版本的wxpython。
+
+再比如wxPython-4.0.0a4.dev3182+a7b9b02-cp34-cp34m-macosx_10_6_intel.whl
+
+是macOS的Python3.4版本的wxpython。
+
+
+
+(2)在cmd上输入指令(管理员权限):
+pip install http://wxpython.org/Phoenix/snapshot-builds/(文件名)
+
+然后等待安装。
+
+注意：直接在没有管理员权限的cmd里安装还是会出错，所以要以管理员身份运行cmd后再安装。
